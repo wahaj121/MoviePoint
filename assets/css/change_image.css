@@ -1,0 +1,12 @@
+.select_image img{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: none;
+}
+img{
+    width: 100%;
+    /* background-color: black; */
+    height: 100%;
+}
