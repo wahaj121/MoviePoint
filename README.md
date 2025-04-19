@@ -35,7 +35,7 @@
 2. Place the project folder in the `htdocs` directory of your XAMPP installation  
 3. Start **Apache** and **MySQL** via the XAMPP control panel  
 4. Import the `moviepoint.sql` file into your MySQL database using **phpMyAdmin**  
-5. Update database connection details in the `config.php` file  
+5. Update database connection details in the `conect.php` file  
 6. Open browser and navigate to `http://localhost/moviepoint/`  
 
 ## 📚 Acknowledgments
